@@ -3,7 +3,7 @@
 ### In this project, we detect forest wildfire from given satellite images. I have used CNN, with a training dataset of 2000 images. 
 
 ## Demo:
-<img src="pics/demo.mp4"/>
+<img src="pics/demo.gif"/>
 
 ## Model training
 Refer to the <a href="https://github.com/lsdvaibhav/final-year-project/blob/main/research.ipynb">research.ipynb</a> jupyter notebook to know the steps taken for model development and algorithm.
